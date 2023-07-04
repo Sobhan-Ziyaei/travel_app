@@ -29,7 +29,7 @@ List<Travel> travelList = [
     temp: '30',
     rating: '5',
     discription:
-        'discriptiondiscriptiondiscriptiondiscriptiondiscriptiondiscriptiondiscriptiondiscription',
+        'discriptiondiscriptiondiscriptiondiscriptiondiscriptiondiscriiptiondiiptiondiiptiondiiptiondiiptiondiiptiondiiptiondiiptiondiiptiondiiptiondiiptiondiiptiondiiptiondiiptiondiptiondiscriptiondiscriptioniptiondiiptiondiiptiondiiptiondiiptiondiiptiondiiptiondiiptiondiiptiondiiptiondiiptiondiiptiondi',
     price: '3000',
   ),
   Travel(
@@ -40,7 +40,7 @@ List<Travel> travelList = [
     temp: '28',
     rating: '4.5',
     discription:
-        'discriptiondiscriptiondiscriptiondiscriptiondiscriptiondiscriptiondiscriptiondiscription',
+        'discriptiondiscriptiondiscriptiondiscriptiptiondiiptiondiiptiondiiptiondiiptiondiiptiondiiptiondiiptiondiiptiondiiptiondiiptiondiiptiondiiptiondiiptiondiiptiondiiptiondiiptiondiiondiptiondiiptiondiiptiondiiptiondiiptiondiiptiondiiptiondiiptiondiiscriptiondiscriptiondiscriptiondiscription',
     price: '2500',
   ),
   Travel(
@@ -51,7 +51,7 @@ List<Travel> travelList = [
     temp: '35',
     rating: '4.8',
     discription:
-        'discriptiondiscriptiondiscriptiondiscriptiondiscriptiondiscriptiondiscriptiondiscription',
+        'discriptiondiscriptiondiscriptiondiscriptiondisiptiondiptiondiiptiondiiptiondiiptiondiiptiondiiptiondiiptiondiiptiondiiptiondiiptiondiiptiondiiptiondiiptiondiiptiondiiptiondiiptiondiiptiondiiptiondiiiptiondiiptiondiiptiondiiptiondiiptiondiiptiondicriptiondiscriptiondiscriptiondiscription',
     price: '1000',
   ),
   Travel(
@@ -62,7 +62,7 @@ List<Travel> travelList = [
     temp: '32',
     rating: '4.7',
     discription:
-        'discriptiondiscriptiondiscriptiondiscriptiondiscriptiondiscriptiondiscriptiondiscription',
+        'discriptiondiscriptiondiscriptiondiscriptiiptiondiiptiondiiptiondiiptiondiiptiondiiptioiptiondiiptiondiiptiondiiptiondiiptiondiiptiondiiptiondiiptiondiiptiondiiptiondiiptiondiiptiondiiptiondiiptiondiiptiondiiptiondindiiptiondiiptiondiondiscriptiondiscriptiondiscriptiondiscription',
     price: '3200',
   ),
 ];
